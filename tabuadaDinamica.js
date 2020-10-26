@@ -1,4 +1,4 @@
-//EsTe programa consite em o usuário inserir um valor, cujo será multiplicado até o número 10
+//EsTe programa consiste em o usuário inserir um valor, cujo será multiplicado até o número 10
 function tabelaDeMultiplicacao(valor) {
 	 let c = 0;
 	 console.log("A tabuada do " + valor) //Ele i´r ainformar a qual número a tabuada se refere
